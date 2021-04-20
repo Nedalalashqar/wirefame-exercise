@@ -47,18 +47,17 @@ font-size: 30px;
 padding-bottom: 20px;
 }
 
-section#wirefame-exercise img,section#wirefame-exercise section{
-display:wirefame-exercise;
-}
 
-#wirefame-exercise p{
+
+
+ section p{
 width: 500px;
 overflow-y:scroll;
 height: 350px;
 line-height: 22px;
 }
 
-button{
+section button{
 background-color: black;
 color: white;
 font-size: 18px;
