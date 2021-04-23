@@ -13,22 +13,26 @@ body{
 }
 
 nav ul{
-display: grid;
-grid-template-columns:repeat(5,1fr);
-margin-bottom: 30px;
+  display: grid;
+  grid-template-columns:repeat(5,1fr);
+  margin-bottom: 20px;
 
 }
 nav{
-background-color:gray;
-margin-bottom: 30px;
+  background-color:gray;
+  margin-bottom: 30px;
+  padding-left: 116px;
+  padding-right: 110px
 }
-
 nav ul li{
-font-size: 20px;
-margin: auto;
-color: #ddd;
+  font-size: 20px;
+  vertical-align: middle;
+  margin:auto;
+  color: #ddd;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
 }
-
 main>img:first-child{
 width: 100%;
 
@@ -68,8 +72,8 @@ button:hover{
 background-color: teal;
 }
 
-footer {
-  height: 120px;
+footer{
   background-color: gray;
+  padding: 50px 70px;
+  margin-top: 20px;
 }
-
