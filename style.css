@@ -9,7 +9,7 @@ body{
     font-family: 'Noto Sans JP', sans-serif;
     background-color: lightgrey;
     text-align: center;
-    line-height: 1.5;
+    
 }
 
 nav ul{
@@ -29,7 +29,7 @@ nav ul li{
   vertical-align: middle;
   margin:auto;
   color: #ddd;
-  padding-top: 10px;
+  padding-top: 18.4px;
   padding-bottom: 10px;
   
 }
@@ -75,5 +75,5 @@ background-color: teal;
 footer{
   background-color: gray;
   padding: 50px 70px;
-  margin-top: 20px;
+   margin-top: 30px;
 }
